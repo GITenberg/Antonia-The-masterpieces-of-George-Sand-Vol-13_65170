@@ -1,10 +1,13 @@
 _repo: Antonia-The-masterpieces-of-George-Sand-Vol-13_65170
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Yves, George Burnham
     gutenberg_agent_id: '53216'
     url: http://www.gutenberg.org/2009/agents/53216
+covers:
+- cover_type: archival
+  image_path: 65170-h/images/antonia_cover.jpg
 creator:
   author:
     agent_name: Sand, George
@@ -20,6 +23,8 @@ creator:
     - https://fr.wikipedia.org/wiki/George_Sand
     - http://en.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65170#Antonia-The-masterpieces-of-George-Sand-Vol-13
 gutenberg_issued: '2021-04-26'
 gutenberg_type: Text
 identifiers:
